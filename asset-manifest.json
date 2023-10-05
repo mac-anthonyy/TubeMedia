@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TubeMedia/static/css/main.8d3bb1a0.css",
+    "main.js": "/TubeMedia/static/js/main.bc64113f.js",
+    "index.html": "/TubeMedia/index.html",
+    "main.8d3bb1a0.css.map": "/TubeMedia/static/css/main.8d3bb1a0.css.map",
+    "main.bc64113f.js.map": "/TubeMedia/static/js/main.bc64113f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d3bb1a0.css",
+    "static/js/main.bc64113f.js"
+  ]
+}
