@@ -6,11 +6,11 @@
 
 ## Github repo
 
-This is the [link](https://github.com/mac-anthony/myPortfolio-website) to the Github repo of the project
+This is the [link](https://github.com/mac-anthonyy/TubeMedia) to the Github repo of the project
 
 ## Sample Website
 
-A live demo is already available via this [link](https://my-porfolioo.netlify.app)
+A live demo is already available via this [link](https://tube-media-c60069.netlify.app)
 
 ## Tech Stack
 
