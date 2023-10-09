@@ -26,17 +26,17 @@ const ChannelDetail = () => {
       <Box>
         <div style={{backgroundColor: '#e6101b',
         zIndex: 10,
-        height: '300px' ,
+        height: '300px' 
          }}
         />
         <ChannelCard channelDetail={channelDetail} marginTop="-110px" />
       </Box>
 
-      <Box display='flex' p='2'>
-        <Box sx={{ mr: {sm: '100px' }}} />
-         <Videos videos={videos} />
+      <Box  display='flex' p='2'  >
+        <Box sx={{ mr: {sm: '30px', md: '65px', lg: '10px'} }} />
+          <Videos videos={videos} />
+        </Box>
       </Box>
-    </Box>
   )
 }
 

@@ -62,6 +62,9 @@ a {
   transition: all 0.3s ease;
 }
 
+
+
+
 @media screen and (max-width: 900px) {
   .category-btn{
     margin: 10px;
@@ -85,4 +88,69 @@ a {
   .search-bar{
     width:200px;
   }
+}
+
+@media screen and (max-width: 550px) {
+  .card-media{
+    width: 500px !important;
+  }
+}
+
+@media screen and (max-width: 415px) {
+  .card-media{
+    width: 320px !important;
+  }
+}
+
+@media screen and (max-width: 281px) {
+  .card-media{
+    width: 220px !important;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 820px) {
+   .videos-stack{
+    display: grid !important;
+    place-content: center !important;
+
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 819px) {
+  .card-media{
+    width: 300px !important;
+  }
+
+}
+
+@media screen and (min-width: 822px) and (max-width: 912px) {
+  .card-media{
+    width: 380px !important;
+  }
+ 
+}
+
+@media screen and (min-width: 950px) and (max-width: 1024px) {
+  .react-player {
+    height: 60vh !important;
+    width: 100% !important;
+  }
+ 
+}
+
+@media screen and (min-width: 1280px) and (max-width: 1440px) {
+  .card-media{
+    width: 290px !important;
+  }
+  .react-player {
+    height: 70vh !important;
+    width: 100% !important;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .card-media{
+    width: 290px !important;
+  }
+ 
 }

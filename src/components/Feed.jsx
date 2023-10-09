@@ -18,7 +18,7 @@ const Feed = () => {
     fetchFromAPI(`search?part=snippet&q=${selectedCategory}`).then((data) => setVideos(data.items));
   }, [selectedCategory]);
   
-
+  if(!videos?.length) return 'Loading...'; 
 
   return (
     <Stack sx={{ flexDirection: { sx: "column", md: "row"}}}>
